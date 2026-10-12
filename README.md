@@ -14,9 +14,9 @@ This is a test repository as my first github experience for my professional prep
 - pythonfake.py: Two random files I added
 
 ## How to run program
-- Open it
-- Press run
-- Follow all the instructions
+1- Open it
+2- Press run
+3-  Follow all the instructions
 
 
 
