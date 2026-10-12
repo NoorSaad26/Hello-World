@@ -11,5 +11,12 @@ This is a test repository as my first github experience for my professional prep
 - Python
 
 ## Files used
-- 
+- pythonfake.py
+
+## How to run program
+- Open it
+- Press run
+- Follow all the instructions
+
+
 
