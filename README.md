@@ -13,7 +13,7 @@ This is a test repository as my first github experience for my professional prep
 ## Files used
 - pythonfake.py: Two random files I added
 
-## How to run program
+## How to run program <ins> </ins>
 1- Open it
 2- Press run
 3-  Follow all the instructions
