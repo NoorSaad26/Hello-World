@@ -11,7 +11,7 @@ This is a test repository as my first github experience for my professional prep
 - Python
 
 ## Files used
-- pythonfake.py
+- pythonfake.py: Two random files I added
 
 ## How to run program
 - Open it
